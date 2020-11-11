@@ -79,7 +79,7 @@ Before Segmentation             |  After Segmentation
 
 # Operating System
 ```
-All of the codes were written in the environment of Windows 10.
+All of the codes were written in the environment Anaconda (Python 3.6) on Tensorflow Framework.
 ```
 
 # Bug Tracking
